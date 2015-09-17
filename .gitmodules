@@ -1,0 +1,3 @@
+[submodule "fa15-hw1"]
+	path = fa15-hw1
+	url = https://github.com/rails-decal/fa15-hw1.git
